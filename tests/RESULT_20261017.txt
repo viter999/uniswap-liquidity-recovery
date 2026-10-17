@@ -1,0 +1,7 @@
+Synthetic test run — single permitted run under the load rule (operator ruling 2026-10-17)
+Interpreter: <project folder>/.venv\Scripts\python.exe (Python 3.9.7)
+Packages: numpy 2.0.2, scipy 1.13.1, pytest 8.4.2
+Command: start /B /BELOWNORMAL /WAIT .venv\Scripts\python.exe -m pytest -q -p no:cacheprovider tests
+Gate at start: free RAM 4.95 GiB (threshold 3.0); Chrome had just been closed by the operator
+Result: 48 passed in 7.10s
+Data: synthetic only (made-up prices, positions, logs, depth series); no chain data, no RPC bulk pull

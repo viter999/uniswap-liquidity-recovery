@@ -1,0 +1,7 @@
+Synthetic test suite at the CODE FREEZE (2026-10-17, UTC)
+Interpreter: <project folder>/.venv/Scripts/python.exe (Python 3.9.7); numpy 2.0.2, scipy 1.13.1, pytest 8.4.2
+Command: python -m pytest tests -q (no network, no real chain data; the operator gate is disabled inside the suite)
+
+........................................................................ [ 94%]
+....                                                                     [100%]
+76 passed in 7.40s
