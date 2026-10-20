@@ -1,0 +1,13 @@
+{
+ "source": "probes/probe_tenderly_arb.py phase 3: factory PoolCreated event (official endpoint) = getCode bisection above the Nitro genesis (Tenderly)",
+ "verified_utc": "2026-10-17T13:15:43+00:00",
+ "creation_blocks": {
+  "arbitrum:0.05%": 99174111,
+  "arbitrum:0.3%": 99173973
+ },
+ "lifetime_from": {
+  "arbitrum:0.05%": 201774111,
+  "arbitrum:0.3%": 148657410
+ },
+ "lifetime_from_note": "continuation of the lifetime Mint/Burn pull in 10,000-block chunks after the official endpoint's 10,000-result cap at 50,000 blocks (RUNLOG 18 Oct 2026)"
+}

@@ -1,0 +1,1011 @@
+{
+ "chain": "arbitrum",
+ "at_utc": "2026-10-20T16:24:14+00:00",
+ "pool_episodes": 96,
+ "status_counts": {
+  "ok": 96
+ },
+ "stage_b_i": {
+  "route": "R1 full Mint/Burn replay + slot0 at b0",
+  "swaps_checked": 9800131,
+  "failures": [],
+  "pass": true
+ },
+ "stage_b_ii": {
+  "drawn_episode_ids": [
+   2,
+   12,
+   18,
+   29,
+   43
+  ],
+  "pool_episodes_compared": 10,
+  "failures": [],
+  "pass": true,
+  "all_comparisons": {
+   "arbitrum:0.05%#1": {
+    "minutes_compared": 4675,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#1": {
+    "minutes_compared": 4675,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#2": {
+    "minutes_compared": 4636,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#2": {
+    "minutes_compared": 4636,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#3": {
+    "minutes_compared": 4649,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#3": {
+    "minutes_compared": 4649,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#4": {
+    "minutes_compared": 5235,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#4": {
+    "minutes_compared": 5235,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#5": {
+    "minutes_compared": 4979,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#5": {
+    "minutes_compared": 4979,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#6": {
+    "minutes_compared": 4636,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#6": {
+    "minutes_compared": 4636,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#7": {
+    "minutes_compared": 6359,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#7": {
+    "minutes_compared": 6359,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#8": {
+    "minutes_compared": 4692,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#8": {
+    "minutes_compared": 4692,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#9": {
+    "minutes_compared": 4638,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#9": {
+    "minutes_compared": 4638,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#10": {
+    "minutes_compared": 4670,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#10": {
+    "minutes_compared": 4670,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#11": {
+    "minutes_compared": 4636,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#11": {
+    "minutes_compared": 4636,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#12": {
+    "minutes_compared": 7315,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#12": {
+    "minutes_compared": 7315,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#13": {
+    "minutes_compared": 4663,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#13": {
+    "minutes_compared": 4663,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#14": {
+    "minutes_compared": 4638,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#14": {
+    "minutes_compared": 4638,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#15": {
+    "minutes_compared": 4645,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#15": {
+    "minutes_compared": 4645,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#16": {
+    "minutes_compared": 4637,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#16": {
+    "minutes_compared": 4637,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#17": {
+    "minutes_compared": 4636,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#17": {
+    "minutes_compared": 4636,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#18": {
+    "minutes_compared": 4639,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#18": {
+    "minutes_compared": 4639,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#19": {
+    "minutes_compared": 5088,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#19": {
+    "minutes_compared": 5088,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#20": {
+    "minutes_compared": 6313,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#20": {
+    "minutes_compared": 6313,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#21": {
+    "minutes_compared": 5175,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#21": {
+    "minutes_compared": 5175,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#22": {
+    "minutes_compared": 4636,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#22": {
+    "minutes_compared": 4636,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#23": {
+    "minutes_compared": 7577,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#23": {
+    "minutes_compared": 7577,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#24": {
+    "minutes_compared": 5329,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#24": {
+    "minutes_compared": 5329,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#25": {
+    "minutes_compared": 10246,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#25": {
+    "minutes_compared": 10246,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#26": {
+    "minutes_compared": 4747,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#26": {
+    "minutes_compared": 4747,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#27": {
+    "minutes_compared": 7189,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#27": {
+    "minutes_compared": 7189,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#28": {
+    "minutes_compared": 4654,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#28": {
+    "minutes_compared": 4654,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#29": {
+    "minutes_compared": 4655,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#29": {
+    "minutes_compared": 4655,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#30": {
+    "minutes_compared": 4663,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#30": {
+    "minutes_compared": 4663,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#31": {
+    "minutes_compared": 4696,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#31": {
+    "minutes_compared": 4696,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#32": {
+    "minutes_compared": 4648,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#32": {
+    "minutes_compared": 4648,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#33": {
+    "minutes_compared": 4637,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#33": {
+    "minutes_compared": 4637,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#34": {
+    "minutes_compared": 4691,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#34": {
+    "minutes_compared": 4691,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#35": {
+    "minutes_compared": 7516,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#35": {
+    "minutes_compared": 7516,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#36": {
+    "minutes_compared": 4780,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#36": {
+    "minutes_compared": 4780,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#37": {
+    "minutes_compared": 4637,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#37": {
+    "minutes_compared": 4637,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#38": {
+    "minutes_compared": 4647,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#38": {
+    "minutes_compared": 4647,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#39": {
+    "minutes_compared": 4660,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#39": {
+    "minutes_compared": 4660,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#40": {
+    "minutes_compared": 4641,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#40": {
+    "minutes_compared": 4641,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#41": {
+    "minutes_compared": 4656,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#41": {
+    "minutes_compared": 4656,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#42": {
+    "minutes_compared": 12336,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#42": {
+    "minutes_compared": 12336,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#43": {
+    "minutes_compared": 6885,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#43": {
+    "minutes_compared": 6885,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#44": {
+    "minutes_compared": 4680,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#44": {
+    "minutes_compared": 4680,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#45": {
+    "minutes_compared": 4644,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#45": {
+    "minutes_compared": 4644,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#46": {
+    "minutes_compared": 4661,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#46": {
+    "minutes_compared": 4661,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#47": {
+    "minutes_compared": 5019,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#47": {
+    "minutes_compared": 5019,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.05%#48": {
+    "minutes_compared": 4640,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   },
+   "arbitrum:0.3%#48": {
+    "minutes_compared": 4640,
+    "max_rel_diff_by_Z": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "missing_secondary_samples": 0,
+    "pass": true
+   }
+  }
+ },
+ "formula": {
+  "ok": true,
+  "note": "headers route"
+ },
+ "completeness": {
+  "arbitrum:0.05%": {
+   "sampled": 50,
+   "compared": 50,
+   "mismatches": [],
+   "unavailable": [],
+   "ok": true
+  },
+  "arbitrum:0.3%": {
+   "sampled": 50,
+   "compared": 50,
+   "mismatches": [],
+   "unavailable": [],
+   "ok": true
+  },
+  "ok": true
+ },
+ "header_gaps": {},
+ "pass": true
+}

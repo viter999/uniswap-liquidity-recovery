@@ -1,0 +1,360 @@
+{
+ "chain": "unichain",
+ "at_utc": "2026-10-17T20:53:31+00:00",
+ "pool_episodes": 48,
+ "status_counts": {
+  "ok": 28,
+  "pool_absent": 20
+ },
+ "stage_b_i": {
+  "route": "R2 snapshot route (D8: no R1 on this chain); equality checked on in-band swaps only",
+  "swaps_checked": 167451,
+  "swaps_unchecked": 0,
+  "per_pool_episode": {
+   "unichain:0.3%#21": [
+    1556,
+    0
+   ],
+   "unichain:0.3%#22": [
+    1902,
+    0
+   ],
+   "unichain:0.3%#23": [
+    4163,
+    0
+   ],
+   "unichain:0.3%#24": [
+    2571,
+    0
+   ],
+   "unichain:0.3%#25": [
+    5930,
+    0
+   ],
+   "unichain:0.3%#26": [
+    4521,
+    0
+   ],
+   "unichain:0.3%#27": [
+    2908,
+    0
+   ],
+   "unichain:0.3%#28": [
+    2261,
+    0
+   ],
+   "unichain:0.3%#29": [
+    2003,
+    0
+   ],
+   "unichain:0.3%#30": [
+    2816,
+    0
+   ],
+   "unichain:0.3%#31": [
+    2420,
+    0
+   ],
+   "unichain:0.3%#32": [
+    1927,
+    0
+   ],
+   "unichain:0.3%#33": [
+    6125,
+    0
+   ],
+   "unichain:0.3%#34": [
+    7899,
+    0
+   ],
+   "unichain:0.3%#35": [
+    18602,
+    0
+   ],
+   "unichain:0.3%#36": [
+    8980,
+    0
+   ],
+   "unichain:0.3%#37": [
+    7216,
+    0
+   ],
+   "unichain:0.3%#38": [
+    4662,
+    0
+   ],
+   "unichain:0.3%#39": [
+    5667,
+    0
+   ],
+   "unichain:0.3%#40": [
+    3545,
+    0
+   ],
+   "unichain:0.3%#41": [
+    4725,
+    0
+   ],
+   "unichain:0.3%#42": [
+    36284,
+    0
+   ],
+   "unichain:0.3%#43": [
+    8276,
+    0
+   ],
+   "unichain:0.3%#44": [
+    2108,
+    0
+   ],
+   "unichain:0.3%#45": [
+    5971,
+    0
+   ],
+   "unichain:0.3%#46": [
+    3423,
+    0
+   ],
+   "unichain:0.3%#47": [
+    6298,
+    0
+   ],
+   "unichain:0.3%#48": [
+    2692,
+    0
+   ]
+  },
+  "failures": [],
+  "pass": true
+ },
+ "stage_b_ii": {
+  "drawn_episode_ids": [
+   2,
+   12,
+   18,
+   29,
+   43
+  ],
+  "note": "not applicable on this chain (D8): R1/R2 agreement is checked on the Ethereum/Arbitrum members",
+  "pass": true
+ },
+ "formula": {
+  "chain": "unichain",
+  "sampled": 50,
+  "mismatches": [],
+  "ok": true
+ },
+ "completeness": {
+  "unichain:0.3%": {
+   "sampled": 50,
+   "compared": 0,
+   "mismatches": [],
+   "unavailable": [
+    [
+     168780,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     305703,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     1657183,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     6552343,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     6587459,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     8123012,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     9886587,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     10340422,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     10349603,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     10553896,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     10584369,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     10589115,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     10889671,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     10932685,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     16087065,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     16291405,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     18419120,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     19221890,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     19824020,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     19925283,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     19952723,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     19964683,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     20024108,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     20154740,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     20367917,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     21540181,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     21669785,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     25113013,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     25153612,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     29366943,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     29434550,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     31635507,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     31780879,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     33111565,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     34613547,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     34729132,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     34906280,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     35289848,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     35361574,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     39117507,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     39150291,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     39267688,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     39593774,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     39651571,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     39679648,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     39680082,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     39820188,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     39842194,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     41928825,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ],
+    [
+     58460622,
+     "{'code': -32602, 'message': 'Archive requests require a personal token. Get one "
+    ]
+   ],
+   "ok": true
+  },
+  "ok": true
+ },
+ "header_gaps": {},
+ "pass": true
+}

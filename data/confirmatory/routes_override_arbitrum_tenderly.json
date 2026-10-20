@@ -1,0 +1,26 @@
+{
+ "base": {
+  "logs_url": "https://base.gateway.tenderly.co",
+  "log_cap": 1000,
+  "logs_pause_s": 0.5,
+  "calls_url": "https://base.gateway.tenderly.co",
+  "call_batch": 1,
+  "headers_url": "https://base.gateway.tenderly.co",
+  "header_batch": 10,
+  "secondary_logs_url": "https://base.drpc.org",
+  "fallback_logs_api": null,
+  "paced": false
+ },
+ "arbitrum": {
+  "logs_url": "https://arbitrum.gateway.tenderly.co",
+  "log_cap": 10000,
+  "logs_pause_s": 0.5,
+  "timestamps": "log_field",
+  "calls_url": "https://arbitrum.gateway.tenderly.co",
+  "call_batch": 1,
+  "headers_url": "https://arb1.arbitrum.io/rpc",
+  "header_batch": 50,
+  "secondary_logs_url": "https://arb1.arbitrum.io/rpc",
+  "paced": false
+ }
+}
